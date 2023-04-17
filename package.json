@@ -1,0 +1,17 @@
+{
+  "name": "ts-to-scartch",
+  "version": "1.0.0",
+  "description": "https://github.dev/TurboWarp/scratch-vm",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.0.2"
+  }
+}
